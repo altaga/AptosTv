@@ -28,7 +28,7 @@
     "graphql-request": "^7.1.0",
     "hls-video-element": "^1.2.7",
     "livepeer": "^3.2.7",
-    "next": "14.2.5",
+    "next": "14.2.10",
     "petra-plugin-wallet-adapter": "^0.4.5",
     "react": "^18",
     "react-dom": "^18",
